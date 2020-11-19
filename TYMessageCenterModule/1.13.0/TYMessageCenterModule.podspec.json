@@ -31,7 +31,7 @@
     },
     "prefix_header_file": "TYMessageCenterModule-1.13.0-rc.3/PrefixHeader.pch",
     "resources": [
-        "TYMessageCenterModule-1.13.0-rc.3/Assets/bundles/*.{bundle}"
+        "TYMessageCenterModule-1.13.0-rc.3/Assets/bundles/TYMessageCenterModule.bundle/Images.xcassets"
     ],
     "source": {
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYMessageCenterModule-1.13.0-rc.3.zip",
