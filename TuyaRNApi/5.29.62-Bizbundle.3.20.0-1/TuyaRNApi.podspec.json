@@ -197,39 +197,6 @@
           "1.5.6"
         ]
       }
-    },
-    {
-      "name": "Speak",
-      "dependencies": {
-        "TuyaRNApi/Core": [
-
-        ],
-        "TYRCTSpeakerManager": [
-          "1.1.11"
-        ]
-      }
-    },
-    {
-      "name": "AVS",
-      "dependencies": {
-        "TuyaRNApi/Core": [
-
-        ],
-        "TYRCTAVSManager": [
-          "1.0.14"
-        ]
-      }
-    },
-    {
-      "name": "Health",
-      "dependencies": {
-        "TuyaRNApi/Core": [
-
-        ],
-        "TYRCTHealthManager": [
-          "1.0.10"
-        ]
-      }
     }
   ]
 }
