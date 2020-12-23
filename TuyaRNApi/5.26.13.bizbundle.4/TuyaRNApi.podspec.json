@@ -175,24 +175,6 @@
                 "TuyaRNApi/Core": []
             },
             "name": "Scene"
-        },
-        {
-            "dependencies": {
-                "TYRCTSpeakerManager": [
-                    "1.1.9"
-                ],
-                "TuyaRNApi/Core": []
-            },
-            "name": "Speak"
-        },
-        {
-            "dependencies": {
-                "TYRCTAVSManager": [
-                    "1.0.13"
-                ],
-                "TuyaRNApi/Core": []
-            },
-            "name": "AVS"
         }
     ],
     "summary": "\u6d82\u9e26\u9762\u677f React-Native API",
