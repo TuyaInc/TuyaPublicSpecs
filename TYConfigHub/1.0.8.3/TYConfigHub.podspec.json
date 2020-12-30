@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "TuyaInc": "https://www.tuya.com"
+    },
+    "dependencies": {
+        "TYBlockKit": [],
+        "TYFoundationKit": [],
+        "TYModuleManager": [],
+        "TYModuleServices": [],
+        "TYSmartEventPredefined": [],
+        "TuyaSmartBaseKit": [],
+        "TuyaSmartUtil": [],
+        "YYModel": []
+    },
+    "description": "TODO: Add long description of the pod here.",
+    "homepage": "https://github.com/TuyaInc",
+    "license": "none",
+    "name": "TYConfigHub",
+    "platforms": {
+        "ios": "9.0"
+    },
+    "source": {
+        "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYConfigHub-1.0.8.3-rc.1.zip",
+        "type": "zip"
+    },
+    "summary": "A short description of TYConfigHub.",
+    "vendored_libraries": "TYConfigHub-1.0.8.3-rc.1/libTYConfigHub.a",
+    "version": "1.0.8.3"
+}
