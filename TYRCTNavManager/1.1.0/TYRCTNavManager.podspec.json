@@ -1,14 +1,14 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYPanelBundleManager": [],
         "TYPanelContext": [],
         "TYReactNative": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYRCTNavManager",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTNavManager",
     "platforms": {
@@ -18,7 +18,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTNavManager-1.1.0.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTNavManager.",
+    "summary": "TYRCTNavManager",
     "vendored_libraries": "TYRCTNavManager-1.1.0/libTYRCTNavManager.a",
     "version": "1.1.0"
 }

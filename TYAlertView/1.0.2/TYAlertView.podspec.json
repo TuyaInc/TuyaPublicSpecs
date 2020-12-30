@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "Masonry": [],
@@ -8,9 +8,9 @@
         "TYOEMConfig": [],
         "TYUIKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYAlertView",
     "frameworks": "UIKit",
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYAlertView",
     "platforms": {
@@ -23,7 +23,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYAlertView-1.0.2-rc.3.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYAlertView.",
+    "summary": "TYAlertView",
     "vendored_libraries": "TYAlertView-1.0.2-rc.3/libTYAlertView.a",
     "version": "1.0.2"
 }

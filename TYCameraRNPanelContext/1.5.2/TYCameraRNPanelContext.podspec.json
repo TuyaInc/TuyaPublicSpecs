@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYCameraUIKit": [],
@@ -13,8 +13,8 @@
         "TuyaSmartCameraKit": [],
         "TuyaSmartDeviceKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYCameraRNPanelContext",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYCameraRNPanelContext",
     "platforms": {
@@ -25,9 +25,9 @@
         "type": "zip"
     },
     "resource_bundles": {
-      "TYCameraRNPanelContext": "TYCameraRNPanelContext-1.5.2-rc.8/Assets/bundles/TYCameraRNPanelContext.bundle/*.xcassets"
+        "TYCameraRNPanelContext": "TYCameraRNPanelContext-1.5.2-rc.8/Assets/bundles/TYCameraRNPanelContext.bundle/*.xcassets"
     },
-    "summary": "A short description of TYCameraRNPanelContext.",
+    "summary": "TYCameraRNPanelContext",
     "vendored_libraries": "TYCameraRNPanelContext-1.5.2-rc.8/libTYCameraRNPanelContext.a",
     "version": "1.5.2"
 }

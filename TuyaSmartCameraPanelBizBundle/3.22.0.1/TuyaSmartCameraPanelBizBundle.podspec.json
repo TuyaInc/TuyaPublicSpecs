@@ -186,7 +186,7 @@
             "0.59.10"
         ]
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TuyaSmartCameraPanelBizBundle",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartCameraPanelBizBundle",
@@ -201,7 +201,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartCameraPanelBizBundle-3.22.0-rc.1/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartCameraPanelBizBundle.",
+    "summary": "TuyaSmartCameraPanelBizBundle",
     "vendored_libraries": "TuyaSmartCameraPanelBizBundle-3.22.0-rc.1/libTuyaSmartCameraPanelBizBundle.a",
     "version": "3.22.0.1"
 }

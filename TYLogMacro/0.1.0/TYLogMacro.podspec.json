@@ -1,9 +1,9 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYLogMacro",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYLogMacro",
     "platforms": {
@@ -13,7 +13,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYLogMacro-0.1.0.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYLogMacro.",
+    "summary": "TYLogMacro",
     "vendored_libraries": "TYLogMacro-0.1.0/libTYLogMacro.a",
     "version": "0.1.0"
 }

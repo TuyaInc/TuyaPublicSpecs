@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "DACircularProgress": [],
@@ -170,7 +170,7 @@
         "libextobjc/UmbrellaHeader": [],
         "lottie-ios": []
     },
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartSceneBizBundle",
     "platforms": {
@@ -181,7 +181,8 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartSceneBizBundle-3.17.0.1/Headers/Public/**/*",
-    "summary": "Scene Component Powered By Tuya",
+    "summary": "TuyaSmartSceneBizBundle",
     "vendored_libraries": "TuyaSmartSceneBizBundle-3.17.0.1/libTuyaSmartSceneBizBundle.a",
-    "version": "3.17.0.1.5"
+    "version": "3.17.0.1.5",
+    "description": "TuyaSmartSceneBizBundle"
 }

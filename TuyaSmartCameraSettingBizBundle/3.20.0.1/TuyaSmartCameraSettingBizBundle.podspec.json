@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "DACircularProgress": [],
@@ -138,8 +138,8 @@
             "0.59.10"
         ]
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TuyaSmartCameraSettingBizBundle",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartCameraSettingBizBundle",
     "platforms": {
@@ -150,7 +150,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartCameraSettingBizBundle-3.20.0-rc.9/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartCameraSettingBizBundle.",
+    "summary": "TuyaSmartCameraSettingBizBundle",
     "vendored_libraries": "TuyaSmartCameraSettingBizBundle-3.20.0-rc.9/libTuyaSmartCameraSettingBizBundle.a",
     "version": "3.20.0.1"
 }

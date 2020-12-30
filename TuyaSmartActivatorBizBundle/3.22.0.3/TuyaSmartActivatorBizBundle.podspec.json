@@ -108,7 +108,7 @@
         "dsBridge": [],
         "lottie-ios": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TuyaSmartActivatorBizBundle",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartActivatorBizBundle",
@@ -127,7 +127,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartActivatorBizBundle-3.22.0-rc.2/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartActivatorBizBundle.",
+    "summary": "TuyaSmartActivatorBizBundle",
     "vendored_libraries": "TuyaSmartActivatorBizBundle-3.22.0-rc.2/libTuyaSmartActivatorBizBundle.a",
     "version": "3.22.0.3"
 }

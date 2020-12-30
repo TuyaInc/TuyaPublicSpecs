@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "HMSegmentedControl": [
@@ -10,7 +10,7 @@
         "TYSmartBusinessLibrary": [],
         "TYUIKit": []
     },
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYTabPagingView",
     "platforms": {
@@ -21,7 +21,8 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYTabPagingView-1.0.5-rc.7.zip",
         "type": "zip"
     },
-    "summary": "TYTabPagingView for tuya",
+    "summary": "TYTabPagingView",
     "vendored_libraries": "TYTabPagingView-1.0.5-rc.7/libTYTabPagingView.a",
-    "version": "1.0.5"
+    "version": "1.0.5",
+    "description": "TYTabPagingView"
 }

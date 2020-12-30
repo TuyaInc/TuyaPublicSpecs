@@ -1,13 +1,13 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "MMKV": [],
         "TuyaSmartBaseKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYKVStorageLibrary",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYKVStorageLibrary",
     "platforms": {
@@ -17,7 +17,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYKVStorageLibrary-0.5.1-rc.1.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYKVStorageLibrary.",
+    "summary": "TYKVStorageLibrary",
     "vendored_libraries": "TYKVStorageLibrary-0.5.1-rc.1/libTYKVStorageLibrary.a",
     "version": "0.5.1"
 }

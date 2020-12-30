@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYModuleManager": [],
@@ -8,8 +8,8 @@
         "TYPanelContext": [],
         "TYReactNative": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYRCTUserManager",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTUserManager",
     "platforms": {
@@ -19,7 +19,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTUserManager-1.0.3.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTUserManager.",
+    "summary": "TYRCTUserManager",
     "vendored_libraries": "TYRCTUserManager-1.0.3/libTYRCTUserManager.a",
     "version": "1.0.3"
 }

@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "DACircularProgress": [],
@@ -169,8 +169,8 @@
             "0.51.0.React.1"
         ]
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TuyaSmartCameraRNPanelBizBundle",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartCameraRNPanelBizBundle",
     "platforms": {
@@ -181,7 +181,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartCameraRNPanelBizBundle-3.17.6.0/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartCameraRNPanelBizBundle.",
+    "summary": "TuyaSmartCameraRNPanelBizBundle",
     "vendored_libraries": "TuyaSmartCameraRNPanelBizBundle-3.17.6.0/libTuyaSmartCameraRNPanelBizBundle.a",
     "version": "3.17.6.0.7"
 }

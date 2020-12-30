@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYCameraRNPanelContext": [],
@@ -9,8 +9,8 @@
         "TuyaSmartCameraBizKit": [],
         "TuyaSmartCameraKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYRCTCameraPlayer",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTCameraPlayer",
     "platforms": {
@@ -20,7 +20,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTCameraPlayer-1.2.4-rc.6.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTCameraPlayer.",
+    "summary": "TYRCTCameraPlayer",
     "vendored_libraries": "TYRCTCameraPlayer-1.2.4-rc.6/libTYRCTCameraPlayer.a",
     "version": "1.2.4"
 }

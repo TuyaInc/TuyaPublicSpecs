@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYFoundationKit": [],
@@ -10,8 +10,8 @@
         "TYSmartBusinessLibrary": [],
         "TuyaSmartBaseKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TuyaSmartBizCore",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartBizCore",
     "platforms": {
@@ -28,7 +28,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartBizCore-3.20.0.8-rc.1/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartBizCore.",
+    "summary": "TuyaSmartBizCore",
     "vendored_libraries": "TuyaSmartBizCore-3.20.0.8-rc.1/libTuyaSmartBizCore.a",
     "version": "3.20.0.8"
 }

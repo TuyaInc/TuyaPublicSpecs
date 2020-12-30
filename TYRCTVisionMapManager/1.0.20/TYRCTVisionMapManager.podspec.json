@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYLogMacro": [],
@@ -8,8 +8,8 @@
         "TYPanelSweeperUtil": [],
         "TYReactNative": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYRCTVisionMapManager",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTVisionMapManager",
     "platforms": {
@@ -20,7 +20,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTVisionMapManager-1.0.20.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTVisionMapManager.",
+    "summary": "TYRCTVisionMapManager",
     "vendored_libraries": "TYRCTVisionMapManager-1.0.20/libTYRCTVisionMapManager.a",
     "version": "1.0.20"
 }

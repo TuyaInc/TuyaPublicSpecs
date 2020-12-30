@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYBluetoothInterface": [
@@ -18,7 +18,7 @@
         "TuyaSmartUtil": []
     },
     "description": "TYBLEInterfaceImpl",
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYBLEInterfaceImpl",
     "platforms": {
@@ -31,7 +31,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYBLEInterfaceImpl-0.0.3-rc.1.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYBLEInterfaceImpl.",
+    "summary": "TYBLEInterfaceImpl",
     "vendored_libraries": "TYBLEInterfaceImpl-0.0.3-rc.1/libTYBLEInterfaceImpl.a",
     "version": "0.0.3.5"
 }

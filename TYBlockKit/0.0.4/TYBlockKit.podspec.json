@@ -1,10 +1,10 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYBlockKit",
     "header_dir": "BlocksKit",
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "module_name": "BlocksKit",
     "name": "TYBlockKit",
@@ -15,7 +15,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYBlockKit-0.0.4.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYBlockKit.",
+    "summary": "TYBlockKit",
     "vendored_libraries": "TYBlockKit-0.0.4/libTYBlockKit.a",
     "version": "0.0.4"
 }

@@ -9,7 +9,7 @@
         "TYNavigationController": [],
         "TuyaSmartBaseKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYPandoraPlayer",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYPandoraPlayer",
@@ -23,7 +23,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYPandoraPlayer-1.0.0-rc.11.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYPandoraPlayer.",
+    "summary": "TYPandoraPlayer",
     "vendored_libraries": "TYPandoraPlayer-1.0.0-rc.11/libTYPandoraPlayer.a",
     "version": "1.0.0"
 }

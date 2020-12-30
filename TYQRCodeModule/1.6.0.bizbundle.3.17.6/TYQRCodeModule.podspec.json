@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYFoundationKit": [],
@@ -13,14 +13,14 @@
         "TuyaSmartBaseKit": [],
         "YYModel": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYQRCodeModule",
     "frameworks": [
         "UIKit",
         "AVFoundation",
         "Foundation",
         "CoreGraphics"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYQRCodeModule",
     "platforms": {
@@ -37,7 +37,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYQRCodeModule-1.6.0.bizbundle.3.17.6.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYQRCodeModule.",
+    "summary": "TYQRCodeModule",
     "vendored_libraries": "TYQRCodeModule-1.6.0.bizbundle.3.17.6/libTYQRCodeModule.a",
     "version": "1.6.0.bizbundle.3.17.6"
 }

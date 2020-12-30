@@ -51,7 +51,8 @@
         "type": "zip"
     },
     "static_framework": true,
-    "summary": "\u6d82\u9e26\u914d\u7f51\u6a21\u5757",
+    "summary": "TYActivatorModule",
     "vendored_libraries": "TYActivatorModule-2.6.3.2-tybizbundle.3.22.0-1-rc.3/libTYActivatorModule.a",
-    "version": "2.6.3.2-tybizbundle.3.22.0-1"
+    "version": "2.6.3.2-tybizbundle.3.22.0-1",
+    "description": "TYActivatorModule"
 }

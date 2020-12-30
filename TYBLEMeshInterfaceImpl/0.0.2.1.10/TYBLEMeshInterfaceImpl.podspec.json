@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "Masonry": [],
@@ -29,8 +29,8 @@
         "TuyaSmartUtil": [],
         "YYModel": []
     },
-    "description": "bluetooth interface implemenatation.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYBLEMeshInterfaceImpl",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYBLEMeshInterfaceImpl",
     "platforms": {
@@ -43,7 +43,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYBLEMeshInterfaceImpl-0.0.2.1.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYBLEMeshInterface.",
+    "summary": "TYBLEMeshInterfaceImpl",
     "vendored_libraries": "TYBLEMeshInterfaceImpl-0.0.2.1/libTYBLEMeshInterfaceImpl.a",
     "version": "0.0.2.1.10"
 }

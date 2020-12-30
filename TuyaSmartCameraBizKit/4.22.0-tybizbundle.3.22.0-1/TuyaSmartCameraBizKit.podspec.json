@@ -13,7 +13,7 @@
         "TuyaSmartCameraKit": [],
         "TuyaSmartDeviceKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TuyaSmartCameraBizKit",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartCameraBizKit",
@@ -24,7 +24,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TuyaSmartCameraBizKit-4.22.0-tybizbundle.3.22.0-1-rc.2.zip",
         "type": "zip"
     },
-    "summary": "A short description of TuyaSmartCameraBizKit.",
+    "summary": "TuyaSmartCameraBizKit",
     "vendored_libraries": "TuyaSmartCameraBizKit-4.22.0-tybizbundle.3.22.0-1-rc.2/libTuyaSmartCameraBizKit.a",
     "version": "4.22.0-tybizbundle.3.22.0-1"
 }

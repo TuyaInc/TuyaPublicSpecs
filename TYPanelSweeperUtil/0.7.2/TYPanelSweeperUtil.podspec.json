@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "SDWebImage": [],
@@ -8,8 +8,8 @@
         "TYLogMacro": [],
         "TuyaSmartDeviceKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYPanelSweeperUtil",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYPanelSweeperUtil",
     "platforms": {
@@ -23,7 +23,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYPanelSweeperUtil-0.7.2-rc.1.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYPanelSweeperUtil.",
+    "summary": "TYPanelSweeperUtil",
     "vendored_libraries": "TYPanelSweeperUtil-0.7.2-rc.1/libTYPanelSweeperUtil.a",
     "version": "0.7.2"
 }

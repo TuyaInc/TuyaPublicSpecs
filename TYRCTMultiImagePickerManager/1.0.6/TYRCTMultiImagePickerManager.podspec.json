@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYFoundationKit": [],
@@ -9,8 +9,8 @@
         "TYReactNative": [],
         "TZImagePickerController": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYRCTMultiImagePickerManager",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTMultiImagePickerManager",
     "platforms": {
@@ -20,7 +20,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTMultiImagePickerManager-1.0.6.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTMultiImagePickerManager.",
+    "summary": "TYRCTMultiImagePickerManager",
     "vendored_libraries": "TYRCTMultiImagePickerManager-1.0.6/libTYRCTMultiImagePickerManager.a",
     "version": "1.0.6"
 }

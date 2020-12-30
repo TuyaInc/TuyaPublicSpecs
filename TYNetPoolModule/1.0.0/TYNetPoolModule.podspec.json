@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "SDWebImage": [],
@@ -15,12 +15,12 @@
         "TuyaSmartBaseKit": [],
         "TuyaSmartDeviceKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYNetPoolModule",
     "frameworks": [
         "UIKit",
         "Foundation"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYNetPoolModule",
     "platforms": {
@@ -33,7 +33,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYNetPoolModule-1.0.0-rc.21.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYNetPoolModule.",
+    "summary": "TYNetPoolModule",
     "vendored_libraries": "TYNetPoolModule-1.0.0-rc.21/libTYNetPoolModule.a",
     "version": "1.0.0"
 }

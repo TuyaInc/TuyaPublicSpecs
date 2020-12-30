@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "SDWebImage": [],
@@ -11,8 +11,8 @@
         "TYUrlPredefined": [],
         "TuyaSmartDeviceKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYDeviceShareModule",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYDeviceShareModule",
     "platforms": {
@@ -26,7 +26,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYDeviceShareModule-2.0.2-rc.3.zip",
         "type": "zip"
     },
-    "summary": "\u8bbe\u5907/\u7fa4\u7ec4\u5206\u4eab\u6a21\u5757",
+    "summary": "TYDeviceShareModule",
     "vendored_libraries": "TYDeviceShareModule-2.0.2-rc.3/libTYDeviceShareModule.a",
     "version": "2.0.2"
 }

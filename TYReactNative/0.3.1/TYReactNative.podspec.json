@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "RNCMaskedView": [],
@@ -18,8 +18,8 @@
         "react-native-video": [],
         "rn-fetch-blob": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYReactNative",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYReactNative",
     "platforms": {
@@ -32,7 +32,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYReactNative-0.3.1-rc.4.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYReactNative.",
+    "summary": "TYReactNative",
     "vendored_libraries": "TYReactNative-0.3.1-rc.4/libTYReactNative.a",
     "version": "0.3.1"
 }

@@ -1,14 +1,14 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYBlockKit": [],
         "TYFoundationKit": [],
         "TYUIKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "ATGestureLockView",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "ATGestureLockView",
     "platforms": {
@@ -23,7 +23,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/ATGestureLockView-0.1.2.zip",
         "type": "zip"
     },
-    "summary": "A short description of ATGestureLockView.",
+    "summary": "ATGestureLockView",
     "vendored_libraries": "ATGestureLockView-0.1.2/libATGestureLockView.a",
     "version": "0.1.2"
 }

@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "HMSegmentedControl": [
@@ -80,8 +80,8 @@
         "YYModel": [],
         "lottie-ios": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TuyaSmartMessageBizBundle",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartMessageBizBundle",
     "platforms": {
@@ -96,7 +96,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartMessageBizBundle-3.17.0.1/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartMessageBizBundle.",
+    "summary": "TuyaSmartMessageBizBundle",
     "vendored_libraries": "TuyaSmartMessageBizBundle-3.17.0.1/libTuyaSmartMessageBizBundle.a",
     "version": "3.17.0.1"
 }

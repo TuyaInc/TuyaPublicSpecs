@@ -34,7 +34,8 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYPanelModule-2.7.5-tybizbundle-1-rc.5.zip",
         "type": "zip"
     },
-    "summary": "\u6d82\u9e26\u9762\u677f\u6a21\u5757",
+    "summary": "TYPanelModule",
     "vendored_libraries": "TYPanelModule-2.7.5-tybizbundle-1-rc.5/libTYPanelModule.a",
-    "version": "2.7.5-tybizbundle-1"
+    "version": "2.7.5-tybizbundle-1",
+    "description": "TYPanelModule"
 }

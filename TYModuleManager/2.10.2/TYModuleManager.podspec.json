@@ -1,12 +1,12 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "frameworks": [
         "UIKit",
         "Foundation"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYModuleManager",
     "platforms": {
@@ -17,7 +17,8 @@
         "type": "zip"
     },
     "source_files": "TYModuleManager-2.10.2-rc.1/Headers/Public/**/*",
-    "summary": "A Module Manager From Tuya",
+    "summary": "TYModuleManager",
     "vendored_libraries": "TYModuleManager-2.10.2-rc.1/libTYModuleManager.a",
-    "version": "2.10.2"
+    "version": "2.10.2",
+    "description": "TYModuleManager"
 }

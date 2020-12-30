@@ -10,7 +10,7 @@
         "TYSmartBusinessLibrary": [],
         "TuyaSmartBaseKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TuyaSmartBizCore",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartBizCore",
@@ -28,7 +28,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartBizCore-3.22.0-rc.3/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartBizCore.",
+    "summary": "TuyaSmartBizCore",
     "vendored_libraries": "TuyaSmartBizCore-3.22.0-rc.3/libTuyaSmartBizCore.a",
     "version": "3.22.0"
 }

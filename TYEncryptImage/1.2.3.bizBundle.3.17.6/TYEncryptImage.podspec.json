@@ -1,11 +1,11 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYFoundationKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYEncryptImage",
     "frameworks": [
         "UIKit",
         "CoreFoundation",
@@ -15,7 +15,7 @@
         "Accelerate",
         "MobileCoreServices"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "libraries": [
         "sqlite3",
         "z",
@@ -30,7 +30,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYEncryptImage-1.2.3.bizBundle.3.17.6.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYEncryptImage.",
+    "summary": "TYEncryptImage",
     "vendored_libraries": "TYEncryptImage-1.2.3.bizBundle.3.17.6/libTYEncryptImage.a",
     "version": "1.2.3.bizBundle.3.17.6"
 }

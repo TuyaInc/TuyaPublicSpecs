@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "MBProgressHUD": [],
@@ -76,8 +76,8 @@
         "dsBridge": [],
         "lottie-ios": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TuyaSmartCloudServiceBizBundle",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartCloudServiceBizBundle",
     "platforms": {
@@ -88,7 +88,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartCloudServiceBizBundle-3.17.0/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartCloudServiceBizBundle.",
+    "summary": "TuyaSmartCloudServiceBizBundle",
     "vendored_libraries": "TuyaSmartCloudServiceBizBundle-3.17.0/libTuyaSmartCloudServiceBizBundle.a",
     "version": "3.17.0.7"
 }

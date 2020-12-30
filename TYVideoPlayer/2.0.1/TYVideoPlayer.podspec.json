@@ -1,13 +1,13 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "Masonry": [],
         "TYFoundationKit": [],
         "TYSmartBusinessLibrary": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYVideoPlayer",
     "frameworks": [
         "UIKit",
         "Foundation",
@@ -32,7 +32,7 @@
         "AssetsLibrary",
         "CoreMedia"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYVideoPlayer",
     "platforms": {
@@ -47,7 +47,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYVideoPlayer-2.0.1.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYVideoPlayer.",
+    "summary": "TYVideoPlayer",
     "vendored_libraries": "TYVideoPlayer-2.0.1/libTYVideoPlayer.a",
     "version": "2.0.1"
 }

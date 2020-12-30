@@ -1,15 +1,15 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "Masonry": [],
         "TYFoundationKit": [],
         "TYUIKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYProgressHUD",
     "frameworks": "UIKit",
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYProgressHUD",
     "platforms": {
@@ -19,7 +19,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYProgressHUD-0.1.2-rc.1.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYProgressHUD.",
+    "summary": "TYProgressHUD",
     "vendored_libraries": "TYProgressHUD-0.1.2-rc.1/libTYProgressHUD.a",
     "version": "0.1.2"
 }

@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYFoundationKit": [],
@@ -10,7 +10,7 @@
         "TYUIKit": [],
         "TuyaSmartBaseKit": []
     },
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYVoiceOverseasModule",
     "platforms": {
@@ -22,7 +22,8 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYVoiceOverseasModule-1.2.5-rc.2.zip",
         "type": "zip"
     },
-    "summary": "\u8bed\u97f3\u7ba1\u7406\u6a21\u5757(\u6d77\u5916\u7248)",
+    "summary": "TYVoiceOverseasModule",
     "vendored_libraries": "TYVoiceOverseasModule-1.2.5-rc.2/libTYVoiceOverseasModule.a",
-    "version": "1.2.5"
+    "version": "1.2.5",
+    "description": "TYVoiceOverseasModule"
 }

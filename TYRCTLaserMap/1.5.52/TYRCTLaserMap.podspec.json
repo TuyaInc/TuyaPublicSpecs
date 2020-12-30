@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYLogMacro": [],
@@ -11,9 +11,9 @@
         "TYSweeperLZ4": [],
         "TuyaSmartSweeperKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYRCTLaserMap",
     "exclude_files": "ios/tyrctlasermap/Classes/Deprecated/*",
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTLaserMap",
     "platforms": {
@@ -27,7 +27,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTLaserMap-1.5.52-rc.5.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTLaserMap.",
+    "summary": "TYRCTLaserMap",
     "vendored_libraries": "TYRCTLaserMap-1.5.52-rc.5/libTYRCTLaserMap.a",
     "version": "1.5.52"
 }

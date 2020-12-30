@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYFoundationKit": [],
@@ -10,7 +10,7 @@
         "TuyaIntentKit": [],
         "TuyaSmartSceneKit": []
     },
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYSiriShortcutModule",
     "platforms": {
@@ -26,7 +26,8 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYSiriShortcutModule-1.1.0.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYSiriShortcutModule.",
+    "summary": "TYSiriShortcutModule",
     "vendored_libraries": "TYSiriShortcutModule-1.1.0/libTYSiriShortcutModule.a",
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "description": "TYSiriShortcutModule"
 }
