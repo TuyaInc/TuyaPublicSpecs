@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "TuyaInc": "https://www.tuya.com"
+    },
+    "dependencies": {
+        "TYPanelContext": [],
+        "TYReactNative": [],
+        "TuyaSmartDeviceKit": []
+    },
+    "description": "TODO: Add long description of the pod here.",
+    "homepage": "https://github.com/TuyaInc",
+    "license": "none",
+    "name": "TYRCTMqttManager",
+    "platforms": {
+        "ios": "9.0"
+    },
+    "source": {
+        "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTMqttManager-1.0.12-rc.7.zip",
+        "type": "zip"
+    },
+    "summary": "A short description of TYRCTMqttManager.",
+    "vendored_libraries": "TYRCTMqttManager-1.0.12-rc.7/libTYRCTMqttManager.a",
+    "version": "1.0.12"
+}
