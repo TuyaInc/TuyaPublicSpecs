@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "TuyaInc": "https://www.tuya.com"
+    },
+    "dependencies": {
+        "TYCameraRNPanelContext": [],
+        "TYCameraUIKit": [],
+        "TYFoundationKit": [],
+        "TYLogMacro": [],
+        "TYPanelContext": [],
+        "TYReactNative": [],
+        "TYSmartBusinessLibrary": [],
+        "TYUIKit": [],
+        "TYUrlPredefined": [],
+        "TuyaSmartCameraBizKit": [],
+        "TuyaSmartCameraKit": [],
+        "TuyaSmartDeviceKit": []
+    },
+    "description": "TODO: Add long description of the pod here.",
+    "homepage": "https://github.com/TuyaInc",
+    "license": "none",
+    "name": "TYRCTCameraManager",
+    "platforms": {
+        "ios": "9.0"
+    },
+    "source": {
+        "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTCameraManager-1.5.14-rc.7.zip",
+        "type": "zip"
+    },
+    "summary": "A short description of TYRCTCameraManager.",
+    "vendored_libraries": "TYRCTCameraManager-1.5.14-rc.7/libTYRCTCameraManager.a",
+    "version": "1.5.14"
+}
