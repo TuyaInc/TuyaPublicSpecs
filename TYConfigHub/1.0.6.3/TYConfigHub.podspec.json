@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYBlockKit": [],
@@ -12,8 +12,8 @@
         "TuyaSmartUtil": [],
         "YYModel": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYConfigHub",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYConfigHub",
     "platforms": {
@@ -23,7 +23,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYConfigHub-1.0.6.3.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYConfigHub.",
+    "summary": "TYConfigHub",
     "vendored_libraries": "TYConfigHub-1.0.6.3/libTYConfigHub.a",
     "version": "1.0.6.3"
 }

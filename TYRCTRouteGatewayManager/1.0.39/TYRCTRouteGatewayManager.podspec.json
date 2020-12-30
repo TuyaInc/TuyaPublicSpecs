@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYModuleServices": [],
@@ -8,8 +8,8 @@
         "TYReactNative": [],
         "TuyaSmartDeviceKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYRCTRouteGatewayManager",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTRouteGatewayManager",
     "platforms": {
@@ -19,7 +19,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTRouteGatewayManager-1.0.39-rc.1.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTRouteGatewayManager.",
+    "summary": "TYRCTRouteGatewayManager",
     "vendored_libraries": "TYRCTRouteGatewayManager-1.0.39-rc.1/libTYRCTRouteGatewayManager.a",
     "version": "1.0.39"
 }

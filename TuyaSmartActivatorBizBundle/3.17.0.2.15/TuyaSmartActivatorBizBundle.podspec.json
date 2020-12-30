@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "DACircularProgress": [],
@@ -102,8 +102,8 @@
         "dsBridge": [],
         "lottie-ios": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TuyaSmartActivatorBizBundle",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartActivatorBizBundle",
     "platforms": {
@@ -118,7 +118,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartActivatorBizBundle-3.17.0.2/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartActivatorBizBundle.",
+    "summary": "TuyaSmartActivatorBizBundle",
     "vendored_libraries": "TuyaSmartActivatorBizBundle-3.17.0.2/libTuyaSmartActivatorBizBundle.a",
     "version": "3.17.0.2.15"
 }

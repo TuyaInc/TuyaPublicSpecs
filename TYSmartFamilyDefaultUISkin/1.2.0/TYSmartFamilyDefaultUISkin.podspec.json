@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "IQKeyboardManager": [],
@@ -25,7 +25,7 @@
         "Foundation",
         "MapKit"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYSmartFamilyDefaultUISkin",
     "platforms": {
@@ -43,7 +43,8 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYSmartFamilyDefaultUISkin-1.2.0.zip",
         "type": "zip"
     },
-    "summary": "\u6d82\u9e26\u5bb6\u5ead\u6a21\u5757\u9ed8\u8ba4\u76ae\u80a4",
+    "summary": "TYSmartFamilyDefaultUISkin",
     "vendored_libraries": "TYSmartFamilyDefaultUISkin-1.2.0/libTYSmartFamilyDefaultUISkin.a",
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "description": "TYSmartFamilyDefaultUISkin"
 }

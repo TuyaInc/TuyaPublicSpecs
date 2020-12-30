@@ -102,7 +102,7 @@
         "dsBridge": [],
         "lottie-ios": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TuyaSmartHelpCenterBizBundle",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartHelpCenterBizBundle",
@@ -117,7 +117,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartHelpCenterBizBundle-3.22.0-rc.1/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartHelpCenterBizBundle.",
+    "summary": "TuyaSmartHelpCenterBizBundle",
     "vendored_libraries": "TuyaSmartHelpCenterBizBundle-3.22.0-rc.1/libTuyaSmartHelpCenterBizBundle.a",
     "version": "3.22.0.1"
 }

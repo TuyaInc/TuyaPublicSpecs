@@ -1,12 +1,12 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYUIKit": []
     },
     "frameworks": "UIKit",
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYNavigationController",
     "platforms": {
@@ -20,7 +20,8 @@
         "type": "zip"
     },
     "source_files": "TYNavigationController-1.13.0-rc.2/Headers/Public/**/*",
-    "summary": "A NavigationController component from TuyaInc",
+    "summary": "TYNavigationController",
     "vendored_libraries": "TYNavigationController-1.13.0-rc.2/libTYNavigationController.a",
-    "version": "1.13.0"
+    "version": "1.13.0",
+    "description": "TYNavigationController"
 }

@@ -197,7 +197,8 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartSceneBizBundle-3.22.0-rc.3/Headers/Public/**/*",
-    "summary": "Scene Component Powered By Tuya",
+    "summary": "TuyaSmartSceneBizBundle",
     "vendored_libraries": "TuyaSmartSceneBizBundle-3.22.0-rc.3/libTuyaSmartSceneBizBundle.a",
-    "version": "3.22.0.2"
+    "version": "3.22.0.2",
+    "description": "TuyaSmartSceneBizBundle"
 }

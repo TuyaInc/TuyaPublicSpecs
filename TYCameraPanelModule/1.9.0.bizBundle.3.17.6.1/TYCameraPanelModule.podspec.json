@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "MJRefresh": [],
@@ -25,7 +25,7 @@
         "TuyaSmartDeviceKit": [],
         "YYModel": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYCameraPanelModule",
     "frameworks": [
         "UIKit",
         "Foundation",
@@ -51,7 +51,7 @@
         "MediaPlayer",
         "CoreMedia"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYCameraPanelModule",
     "platforms": {
@@ -68,7 +68,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYCameraPanelModule-1.9.0.bizBundle.3.17.6.1.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYCameraPanelModule.",
+    "summary": "TYCameraPanelModule",
     "vendored_libraries": [
         "TYCameraPanelModule-1.9.0.bizBundle.3.17.6.1/libTYCameraPanelModule.a",
         "TYCameraPanelModule-1.9.0.bizBundle.3.17.6.1/VendorsLibrary/**/*.a"

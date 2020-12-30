@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYNavigationController": [],
@@ -8,8 +8,8 @@
         "TYReactNative": [],
         "TYUIKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYRCTHueCircleView",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTHueCircleView",
     "platforms": {
@@ -19,7 +19,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTHueCircleView-1.0.7-rc.2.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTHueCircleView.",
+    "summary": "TYRCTHueCircleView",
     "vendored_libraries": "TYRCTHueCircleView-1.0.7-rc.2/libTYRCTHueCircleView.a",
     "version": "1.0.7"
 }

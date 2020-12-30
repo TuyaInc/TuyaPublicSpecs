@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "MBProgressHUD": [
@@ -25,7 +25,7 @@
         "AddressBookUI",
         "WebKit"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYHybridContainer",
     "platforms": {
@@ -39,7 +39,8 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYHybridContainer-1.2.9.bizbundle.3.17.0.zip",
         "type": "zip"
     },
-    "summary": "\u5bb9\u5668",
+    "summary": "TYHybridContainer",
     "vendored_libraries": "TYHybridContainer-1.2.9.bizbundle.3.17.0/libTYHybridContainer.a",
-    "version": "1.2.9.bizbundle.3.17.0"
+    "version": "1.2.9.bizbundle.3.17.0",
+    "description": "TYHybridContainer"
 }

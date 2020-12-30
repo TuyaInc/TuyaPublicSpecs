@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYFoundationKit": [],
@@ -21,7 +21,7 @@
         "UIKit",
         "Foundation"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYSmartUserCenterBizKit",
     "platforms": {
@@ -33,7 +33,8 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYSmartUserCenterBizKit-2.3.0-rc.11.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYSmartUserCenterBizKit.",
+    "summary": "TYSmartUserCenterBizKit",
     "vendored_libraries": "TYSmartUserCenterBizKit-2.3.0-rc.11/libTYSmartUserCenterBizKit.a",
-    "version": "2.3.0"
+    "version": "2.3.0",
+    "description": "TYSmartUserCenterBizKit"
 }

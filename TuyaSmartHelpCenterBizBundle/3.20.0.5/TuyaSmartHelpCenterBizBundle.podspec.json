@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "CocoaAsyncSocket": [],
@@ -107,8 +107,8 @@
         "dsBridge": [],
         "lottie-ios": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TuyaSmartHelpCenterBizBundle",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartHelpCenterBizBundle",
     "platforms": {
@@ -122,7 +122,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartHelpCenterBizBundle-3.20.0-rc.1/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartHelpCenterBizBundle.",
+    "summary": "TuyaSmartHelpCenterBizBundle",
     "vendored_libraries": "TuyaSmartHelpCenterBizBundle-3.20.0-rc.1/libTuyaSmartHelpCenterBizBundle.a",
     "version": "3.20.0.5"
 }

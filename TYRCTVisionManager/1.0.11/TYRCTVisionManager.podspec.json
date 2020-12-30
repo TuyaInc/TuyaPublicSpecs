@@ -1,14 +1,14 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYPanelContext": [],
         "TYPanelSweeperUtil": [],
         "TYReactNative": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYRCTVisionManager",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTVisionManager",
     "platforms": {
@@ -18,7 +18,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTVisionManager-1.0.11.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTVisionManager.",
+    "summary": "TYRCTVisionManager",
     "vendored_libraries": "TYRCTVisionManager-1.0.11/libTYRCTVisionManager.a",
     "version": "1.0.11"
 }

@@ -31,7 +31,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYBLEInterfaceImpl-0.0.4-rc.9.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYBLEInterfaceImpl.",
+    "summary": "TYBLEInterfaceImpl",
     "vendored_libraries": "TYBLEInterfaceImpl-0.0.4-rc.9/libTYBLEInterfaceImpl.a",
     "version": "0.0.4.3"
 }

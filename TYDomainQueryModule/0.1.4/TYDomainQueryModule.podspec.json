@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYFoundationKit": [],
@@ -10,8 +10,8 @@
         "TYSmartBusinessLibrary": [],
         "TuyaSmartBaseKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYDomainQueryModule",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYDomainQueryModule",
     "platforms": {
@@ -23,7 +23,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYDomainQueryModule-0.1.4.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYDomainQueryModule.",
+    "summary": "TYDomainQueryModule",
     "vendored_libraries": "TYDomainQueryModule-0.1.4/libTYDomainQueryModule.a",
     "version": "0.1.4"
 }

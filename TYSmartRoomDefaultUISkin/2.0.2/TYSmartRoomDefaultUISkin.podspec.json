@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "SDWebImage": [],
@@ -20,7 +20,7 @@
         "UIKit",
         "Foundation"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYSmartRoomDefaultUISkin",
     "platforms": {
@@ -34,7 +34,8 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYSmartRoomDefaultUISkin-2.0.2-rc.4.zip",
         "type": "zip"
     },
-    "summary": "\u623f\u95f4\u6a21\u5757\u9ed8\u8ba4\u76ae\u80a4",
+    "summary": "TYSmartRoomDefaultUISkin",
     "vendored_libraries": "TYSmartRoomDefaultUISkin-2.0.2-rc.4/libTYSmartRoomDefaultUISkin.a",
-    "version": "2.0.2"
+    "version": "2.0.2",
+    "description": "TYSmartRoomDefaultUISkin"
 }

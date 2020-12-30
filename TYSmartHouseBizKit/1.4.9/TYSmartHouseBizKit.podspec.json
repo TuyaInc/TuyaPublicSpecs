@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYBlockKit": [],
@@ -11,7 +11,7 @@
         "TYSmartSceneBizKit": [],
         "libextobjc": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYSmartHouseBizKit",
     "frameworks": [
         "UIKit",
         "AVFoundation",
@@ -22,7 +22,7 @@
         "ContactsUI",
         "Foundation"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYSmartHouseBizKit",
     "platforms": {
@@ -33,7 +33,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYSmartHouseBizKit-1.4.9.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYSmartHouseBizKit.",
+    "summary": "TYSmartHouseBizKit",
     "vendored_libraries": "TYSmartHouseBizKit-1.4.9/libTYSmartHouseBizKit.a",
     "version": "1.4.9"
 }

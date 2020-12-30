@@ -64,7 +64,7 @@
         "YYModel": [],
         "lottie-ios": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TuyaSmartOTABizBundle",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartOTABizBundle",
@@ -83,7 +83,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartOTABizBundle-3.22.0-rc.7/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartOTABizBundle.",
+    "summary": "TuyaSmartOTABizBundle",
     "vendored_libraries": "TuyaSmartOTABizBundle-3.22.0-rc.7/libTuyaSmartOTABizBundle.a",
     "version": "3.22.0.2"
 }

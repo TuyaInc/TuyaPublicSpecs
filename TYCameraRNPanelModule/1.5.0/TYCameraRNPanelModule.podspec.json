@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYCameraRNPanelContext": [],
@@ -8,8 +8,8 @@
         "TYModuleServices": [],
         "TYPanelModule": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYCameraRNPanelModule",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYCameraRNPanelModule",
     "platforms": {
@@ -19,7 +19,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYCameraRNPanelModule-1.5.0-rc.1.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYCameraRNPanelModule.",
+    "summary": "TYCameraRNPanelModule",
     "vendored_libraries": "TYCameraRNPanelModule-1.5.0-rc.1/libTYCameraRNPanelModule.a",
     "version": "1.5.0"
 }

@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "Masonry": [],
@@ -15,7 +15,7 @@
         "MobileCoreServices",
         "Accelerate"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYUIKit",
     "platforms": {
@@ -26,7 +26,8 @@
         "type": "zip"
     },
     "source_files": "TYUIKit-1.13.1-rc.2/Headers/Public/**/*",
-    "summary": "\u6d82\u9e26\u7684UI\u7ec4\u4ef6",
+    "summary": "TYUIKit",
     "vendored_libraries": "TYUIKit-1.13.1-rc.2/libTYUIKit.a",
-    "version": "1.13.1"
+    "version": "1.13.1",
+    "description": "TYUIKit"
 }

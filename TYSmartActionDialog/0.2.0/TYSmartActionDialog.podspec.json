@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "Masonry": [],
@@ -8,12 +8,12 @@
         "TYLogMacro": [],
         "TYUIKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYSmartActionDialog",
     "frameworks": [
         "UIKit",
         "AudioToolbox"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYSmartActionDialog",
     "platforms": {
@@ -27,7 +27,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYSmartActionDialog-0.2.0-rc.6.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYSmartActionDialog.",
+    "summary": "TYSmartActionDialog",
     "vendored_libraries": "TYSmartActionDialog-0.2.0-rc.6/libTYSmartActionDialog.a",
     "version": "0.2.0"
 }

@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYBluetoothInterface": [],
@@ -18,7 +18,7 @@
         "TuyaSmartSceneKit": [],
         "YYModel": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYSmartSceneBizKit",
     "frameworks": [
         "UIKit",
         "AVFoundation",
@@ -29,7 +29,7 @@
         "ContactsUI",
         "Foundation"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYSmartSceneBizKit",
     "platforms": {
@@ -41,7 +41,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYSmartSceneBizKit-1.11.0-rc.10.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYSmartSceneBizKit.",
+    "summary": "TYSmartSceneBizKit",
     "vendored_libraries": "TYSmartSceneBizKit-1.11.0-rc.10/libTYSmartSceneBizKit.a",
     "version": "1.11.0"
 }

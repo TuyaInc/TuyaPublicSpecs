@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "SDWebImage": [],
@@ -11,7 +11,7 @@
         "YYModel": [],
         "libextobjc": []
     },
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYTemplateSkeleton",
     "platforms": {
@@ -22,7 +22,8 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYTemplateSkeleton-0.2.4-rc.4.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYTemplateSkeleton.",
+    "summary": "TYTemplateSkeleton",
     "vendored_libraries": "TYTemplateSkeleton-0.2.4-rc.4/libTYTemplateSkeleton.a",
-    "version": "0.2.4"
+    "version": "0.2.4",
+    "description": "TYTemplateSkeleton"
 }

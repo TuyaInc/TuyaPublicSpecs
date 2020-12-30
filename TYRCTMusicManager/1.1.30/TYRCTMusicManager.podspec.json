@@ -1,15 +1,15 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "EZAudio": [],
         "TYPanelContext": [],
         "TYReactNative": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYRCTMusicManager",
     "frameworks": "AVFoundation",
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTMusicManager",
     "platforms": {
@@ -19,7 +19,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTMusicManager-1.1.30-rc.3.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTMusicManager.",
+    "summary": "TYRCTMusicManager",
     "vendored_libraries": "TYRCTMusicManager-1.1.30-rc.3/libTYRCTMusicManager.a",
     "version": "1.1.30"
 }

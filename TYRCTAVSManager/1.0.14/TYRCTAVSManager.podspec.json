@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYLoginWithAmzSDK": [],
@@ -8,8 +8,8 @@
         "TYReactNative": [],
         "TYSmartBusinessLibrary": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYRCTAVSManager",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTAVSManager",
     "platforms": {
@@ -19,7 +19,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTAVSManager-1.0.14.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTAVSManager.",
+    "summary": "TYRCTAVSManager",
     "vendored_libraries": "TYRCTAVSManager-1.0.14/libTYRCTAVSManager.a",
     "version": "1.0.14"
 }

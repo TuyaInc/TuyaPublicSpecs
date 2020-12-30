@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "Masonry": [],
@@ -17,8 +17,8 @@
         "TYUrlPredefined": [],
         "TuyaSmartBaseKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYReleaseDebugger",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYReleaseDebugger",
     "platforms": {
@@ -33,7 +33,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYReleaseDebugger-0.9.1-rc.6.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYReleaseDebugger.",
+    "summary": "TYReleaseDebugger",
     "vendored_libraries": "TYReleaseDebugger-0.9.1-rc.6/libTYReleaseDebugger.a",
     "version": "0.9.1"
 }

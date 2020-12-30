@@ -96,7 +96,7 @@
         "libextobjc/UmbrellaHeader": [],
         "lottie-ios": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TuyaSmartDeviceDetailBizBundle",
     "frameworks": [
         "UIKit",
         "Foundation"
@@ -119,7 +119,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartDeviceDetailBizBundle-3.22.0-rc.6/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartDeviceDetailBizBundle.",
+    "summary": "TuyaSmartDeviceDetailBizBundle",
     "vendored_libraries": "TuyaSmartDeviceDetailBizBundle-3.22.0-rc.6/libTuyaSmartDeviceDetailBizBundle.a",
     "version": "3.22.0.2"
 }

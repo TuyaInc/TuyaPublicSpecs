@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYAlertPickerComponent": [],
@@ -14,8 +14,8 @@
         "TuyaSmartDeviceKit": [],
         "TuyaSmartTimerKit": []
     },
-    "description": "\u6d82\u9e26\u8bbe\u5907\u5b9a\u65f6\u6a21\u5757",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYTimerModule",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYTimerModule",
     "platforms": {
@@ -29,7 +29,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYTimerModule-2.2.0.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYTimerModule.",
+    "summary": "TYTimerModule",
     "vendored_libraries": "TYTimerModule-2.2.0/libTYTimerModule.a",
     "version": "2.2.0"
 }

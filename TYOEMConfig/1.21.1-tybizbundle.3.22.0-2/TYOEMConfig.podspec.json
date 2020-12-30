@@ -24,9 +24,10 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYOEMConfig-1.21.1-tybizbundle.3.22.0-2-rc.1.zip",
         "type": "zip"
     },
-    "summary": "OEM\u6253\u5305\u914d\u7f6e\u9879",
+    "summary": "TYOEMConfig",
     "version": "1.21.1-tybizbundle.3.22.0-2",
     "watchos": {
         "vendored_libraries": "TYOEMConfig-1.21.1-tybizbundle.3.22.0-2-rc.1/watchos/libTYOEMConfig.a"
-    }
+    },
+    "description": "TYOEMConfig"
 }

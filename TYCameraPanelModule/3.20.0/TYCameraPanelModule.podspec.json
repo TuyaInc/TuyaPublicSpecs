@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "MJRefresh": [],
@@ -25,7 +25,7 @@
         "TuyaSmartDeviceKit": [],
         "YYModel": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYCameraPanelModule",
     "frameworks": [
         "UIKit",
         "Foundation",
@@ -51,7 +51,7 @@
         "MediaPlayer",
         "CoreMedia"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYCameraPanelModule",
     "platforms": {
@@ -62,13 +62,13 @@
     },
     "prefix_header_contents": "#import <TYLogMacro/TYLogMacro.h>\n\n#undef TYLogDebug\n#define TYLogDebug(...) TYLogger(0, @\"TYCameraPanelModule\", ##__VA_ARGS__)\n\n#undef TYLogInfo\n#define TYLogInfo(...)  TYLogger(1,  @\"TYCameraPanelModule\", ##__VA_ARGS__)\n\n#undef TYLogWarn\n#define TYLogWarn(...)  TYLogger(2,  @\"TYCameraPanelModule\", ##__VA_ARGS__)\n\n#undef TYLogError\n#define TYLogError(...) TYLogger(3, @\"TYCameraPanelModule\", ##__VA_ARGS__)",
     "resource_bundles": {
-      "TYCameraPanelModule": "TYCameraPanelModule-3.20.0-rc.41/Assets/bundles/TYCameraPanelModule.bundle/*.xcassets"
+        "TYCameraPanelModule": "TYCameraPanelModule-3.20.0-rc.41/Assets/bundles/TYCameraPanelModule.bundle/*.xcassets"
     },
     "source": {
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYCameraPanelModule-3.20.0-rc.41.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYCameraPanelModule.",
+    "summary": "TYCameraPanelModule",
     "vendored_libraries": [
         "TYCameraPanelModule-3.20.0-rc.41/libTYCameraPanelModule.a",
         "TYCameraPanelModule-3.20.0-rc.41/VendorsLibrary/**/*.a"

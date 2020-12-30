@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "ATGestureLockView": [
@@ -214,8 +214,8 @@
             "0.51.0.React.1"
         ]
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TuyaSmartPanelBizBundle",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartPanelBizBundle",
     "platforms": {
@@ -229,7 +229,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartPanelBizBundle-3.17.0.2/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartPanelBizBundle.",
+    "summary": "TuyaSmartPanelBizBundle",
     "vendored_libraries": "TuyaSmartPanelBizBundle-3.17.0.2/libTuyaSmartPanelBizBundle.a",
     "version": "3.17.0.2.2"
 }

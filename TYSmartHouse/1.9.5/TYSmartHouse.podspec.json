@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "DACircularProgress": [],
@@ -31,7 +31,7 @@
         "TuyaSmartUtil": [],
         "YYModel": []
     },
-    "description": "\u9996\u9875\u5185\u5bb9\u76f8\u5173",
+    "description": "TYSmartHouse",
     "frameworks": [
         "UIKit",
         "AVFoundation",
@@ -43,7 +43,7 @@
         "Foundation",
         "AudioToolbox"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "libraries": [
         "iconv",
         "z",
@@ -64,7 +64,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYSmartHouse-1.9.5-rc.19.zip",
         "type": "zip"
     },
-    "summary": "\u5168\u5c4b\u9996\u9875",
+    "summary": "TYSmartHouse",
     "user_target_xcconfig": {
         "CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES": "YES"
     },

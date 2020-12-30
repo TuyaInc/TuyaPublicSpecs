@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "IQKeyboardManager": [],
@@ -26,7 +26,7 @@
         "UIKit",
         "Foundation"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYSmartSceneModule",
     "platforms": {
@@ -44,7 +44,8 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYSmartSceneModule-1.7.5.zip",
         "type": "zip"
     },
-    "summary": "\u573a\u666f\u6a21\u5757",
+    "summary": "TYSmartSceneModule",
     "vendored_libraries": "TYSmartSceneModule-1.7.5/libTYSmartSceneModule.a",
-    "version": "1.7.5"
+    "version": "1.7.5",
+    "description": "TYSmartSceneModule"
 }

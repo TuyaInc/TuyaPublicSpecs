@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYEncryptImage": [],
@@ -8,8 +8,8 @@
         "TYPanelContext": [],
         "TYReactNative": []
     },
-    "description": "TODO: Add long description of the pod here.",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYRCTAESImageViewManager",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYRCTAESImageViewManager",
     "platforms": {
@@ -19,7 +19,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTAESImageViewManager-1.0.11-Bizbundle.3.20.0-2-rc.1.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYRCTAESImageViewManager.",
+    "summary": "TYRCTAESImageViewManager",
     "vendored_libraries": "TYRCTAESImageViewManager-1.0.11-Bizbundle.3.20.0-2-rc.1/libTYRCTAESImageViewManager.a",
     "version": "1.0.11-Bizbundle.3.20.0-2"
 }

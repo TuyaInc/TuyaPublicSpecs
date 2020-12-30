@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "Reachability": [],
@@ -10,12 +10,12 @@
         "TYReactNative": [],
         "TuyaSmartDeviceKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYPanelContext",
     "frameworks": [
         "UIKit",
         "AudioToolbox"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYPanelContext",
     "platforms": {
@@ -28,7 +28,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYPanelContext-0.2.6.bizbundle.3.17.0.zip",
         "type": "zip"
     },
-    "summary": "\u6d82\u9e26\u9762\u677f\u4e0a\u4e0b\u6587\u4fe1\u606f\u6a21\u5757",
+    "summary": "TYPanelContext",
     "vendored_libraries": "TYPanelContext-0.2.6.bizbundle.3.17.0/libTYPanelContext.a",
     "version": "0.2.6.bizbundle.3.17.0"
 }

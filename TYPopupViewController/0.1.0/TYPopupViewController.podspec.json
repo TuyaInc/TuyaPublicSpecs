@@ -1,16 +1,16 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYUIKit": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYPopupViewController",
     "frameworks": [
         "UIKit",
         "Foundation"
     ],
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYPopupViewController",
     "platforms": {
@@ -20,7 +20,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYPopupViewController-0.1.0-rc.7.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYPopupViewController.",
+    "summary": "TYPopupViewController",
     "vendored_libraries": "TYPopupViewController-0.1.0-rc.7/libTYPopupViewController.a",
     "version": "0.1.0"
 }

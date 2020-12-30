@@ -1,8 +1,8 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
-    "homepage": "https://github.com/TuyaInc",
+    "homepage": "https://github.com/tuya",
     "ios": {
         "dependencies": {
             "Reachability": []
@@ -31,7 +31,7 @@
         "type": "zip"
     },
     "source_files": "TYFoundationKit-1.10.2/Headers/Public/**/*",
-    "summary": "A FoundationKit Powered By TuyaInc",
+    "summary": "TYFoundationKit",
     "version": "1.10.2",
     "watchos": {
         "frameworks": [
@@ -45,5 +45,6 @@
             "TYFoundationKit/Classes/watchos/**/*"
         ],
         "vendored_libraries": "TYFoundationKit-1.10.2/watchos/libTYFoundationKit.a"
-    }
+    },
+    "description": "TYFoundationKit"
 }

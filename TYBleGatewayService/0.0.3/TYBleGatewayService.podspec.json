@@ -1,6 +1,6 @@
 {
     "authors": {
-        "TuyaInc": "https://www.tuya.com"
+        "TuyaInc": "https://developer.tuya.com/"
     },
     "dependencies": {
         "TYBluetoothInterface": [],
@@ -8,8 +8,8 @@
         "TYModuleServices": [],
         "TuyaSmartDeviceKit": []
     },
-    "description": "\u5bf9\u84dd\u7259\u7f51\u5173\u505amqtt\u7b49\u5904\u7406",
-    "homepage": "https://github.com/TuyaInc",
+    "description": "TYBleGatewayService",
+    "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYBleGatewayService",
     "platforms": {
@@ -19,7 +19,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYBleGatewayService-0.0.3.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYBleGatewayService.",
+    "summary": "TYBleGatewayService",
     "vendored_libraries": "TYBleGatewayService-0.0.3/libTYBleGatewayService.a",
     "version": "0.0.3"
 }

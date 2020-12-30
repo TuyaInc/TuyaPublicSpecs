@@ -21,7 +21,7 @@
         "TuyaSmartDeviceKit": [],
         "YYModel": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TYDeviceDetailModule",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TYDeviceDetailModule",
@@ -37,7 +37,7 @@
         "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYDeviceDetailModule-2.1.0-tybizbundle.3.22.0-1-rc.3.zip",
         "type": "zip"
     },
-    "summary": "A short description of TYDeviceDetailModule.",
+    "summary": "TYDeviceDetailModule",
     "vendored_libraries": "TYDeviceDetailModule-2.1.0-tybizbundle.3.22.0-1-rc.3/libTYDeviceDetailModule.a",
     "version": "2.1.0-tybizbundle.3.22.0-1"
 }
