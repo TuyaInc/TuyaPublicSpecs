@@ -273,7 +273,7 @@
             "0.59.10"
         ]
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TuyaSmartPanelBizBundle",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartPanelBizBundle",
@@ -288,7 +288,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartPanelBizBundle-3.22.0-rc.1/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartPanelBizBundle.",
+    "summary": "TuyaSmartPanelBizBundle",
     "vendored_libraries": "TuyaSmartPanelBizBundle-3.22.0-rc.1/libTuyaSmartPanelBizBundle.a",
     "version": "3.22.0.8"
 }

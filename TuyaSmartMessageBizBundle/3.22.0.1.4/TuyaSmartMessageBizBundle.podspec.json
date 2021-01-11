@@ -84,7 +84,7 @@
         "YYModel": [],
         "lottie-ios": []
     },
-    "description": "TODO: Add long description of the pod here.",
+    "description": "TuyaSmartMessageBizBundle",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartMessageBizBundle",
@@ -103,7 +103,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartMessageBizBundle-3.22.0.1-rc.1/Headers/Public/**/*",
-    "summary": "A short description of TuyaSmartMessageBizBundle.",
+    "summary": "TuyaSmartMessageBizBundle",
     "vendored_libraries": "TuyaSmartMessageBizBundle-3.22.0.1-rc.1/libTuyaSmartMessageBizBundle.a",
     "version": "3.22.0.1.4"
 }

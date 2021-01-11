@@ -168,7 +168,7 @@
             "0.59.10"
         ]
     },
-    "description": "Tuya Family Module",
+    "description": "TuyaSmartFamilyBizBundle",
     "homepage": "https://github.com/tuya",
     "license": "none",
     "name": "TuyaSmartFamilyBizBundle",
@@ -187,7 +187,7 @@
         "type": "zip"
     },
     "source_files": "TuyaSmartFamilyBizBundle-3.22.0-rc.6/Headers/Public/**/*",
-    "summary": "Tuya public module for family management.",
+    "summary": "TuyaSmartFamilyBizBundle",
     "vendored_libraries": "TuyaSmartFamilyBizBundle-3.22.0-rc.6/libTuyaSmartFamilyBizBundle.a",
     "version": "3.22.0.5"
 }
