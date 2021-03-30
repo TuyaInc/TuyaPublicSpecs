@@ -8,9 +8,7 @@
         "TYBluetoothInterface": [
             "0.0.8"
         ],
-        "TYFoundationKit": [
-            "1.10.3"
-        ],
+        "TYFoundationKit": [],
         "TYModuleManager": [
             "2.10.0.bizbundle.3.17.6"
         ],
@@ -20,9 +18,7 @@
         "TYOEMConfig": [
             "1.12.1.bizbundle.3.17.0.1"
         ],
-        "TYUIKit": [
-            "1.10.2"
-        ],
+        "TYUIKit": [],
         "TuyaSmartBLEMeshKit": [],
         "TuyaSmartBaseKit": [],
         "TuyaSmartDeviceKit": [],

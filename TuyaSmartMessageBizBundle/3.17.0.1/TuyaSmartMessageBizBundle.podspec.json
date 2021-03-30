@@ -19,9 +19,7 @@
         "TYEncryptImage": [
             "1.2.3.bizBundle.3.17.6"
         ],
-        "TYFoundationKit": [
-            "1.10.3"
-        ],
+        "TYFoundationKit": [],
         "TYKVStorageLibrary": [
             "0.5.0"
         ],
@@ -58,9 +56,7 @@
         "TYTabPagingView": [
             "1.0.4"
         ],
-        "TYUIKit": [
-            "1.10.2"
-        ],
+        "TYUIKit": [],
         "TYUrlPredefined": [
             "0.2.49"
         ],
