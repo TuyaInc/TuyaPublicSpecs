@@ -52,9 +52,7 @@
             "0.4.0-Bizbundle.3.20.0-1"
         ],
         "TYEncryptImage": [],
-        "TYFoundationKit": [
-            "1.12.0"
-        ],
+        "TYFoundationKit": [],
         "TYKVStorageLibrary": [
             "0.5.0-Bizbundle.3.20.0-1"
         ],
@@ -211,9 +209,7 @@
         "TYTimerModule": [
             "2.4.0"
         ],
-        "TYUIKit": [
-            "1.12.0"
-        ],
+        "TYUIKit": [],
         "TZImagePickerController": [],
         "TheAmazingAudioEngine": [],
         "TuyaRNApi/Basic": [

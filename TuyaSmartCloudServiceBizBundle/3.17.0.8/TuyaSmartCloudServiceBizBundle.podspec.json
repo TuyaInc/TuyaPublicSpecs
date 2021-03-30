@@ -26,9 +26,7 @@
         "TYEncryptImage": [
             "1.2.3.bizBundle.3.17.6"
         ],
-        "TYFoundationKit": [
-            "1.10.3"
-        ],
+        "TYFoundationKit": [],
         "TYHybridContainer": [
             "1.2.9.bizbundle.3.17.0"
         ],
@@ -59,9 +57,7 @@
         "TYSmartEventPredefined": [
             "1.2.34"
         ],
-        "TYUIKit": [
-            "1.10.2"
-        ],
+        "TYUIKit": [],
         "TYVideoPlayer": [
             "2.0.1"
         ],

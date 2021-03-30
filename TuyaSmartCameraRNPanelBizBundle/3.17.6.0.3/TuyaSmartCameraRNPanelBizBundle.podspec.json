@@ -59,9 +59,7 @@
         "TYEncryptImage": [
             "1.2.3.bizBundle.3.17.6"
         ],
-        "TYFoundationKit": [
-            "1.10.3"
-        ],
+        "TYFoundationKit": [],
         "TYHybridContainer": [
             "1.2.9.bizbundle.3.17.0"
         ],
@@ -119,9 +117,7 @@
         "TYTarKit": [
             "0.1.5"
         ],
-        "TYUIKit": [
-            "1.10.2"
-        ],
+        "TYUIKit": [],
         "TYUrlPredefined": [
             "0.2.49"
         ],

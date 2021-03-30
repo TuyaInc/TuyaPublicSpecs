@@ -29,9 +29,7 @@
         "TYEncryptImage": [
             "1.2.3.bizBundle.3.17.6"
         ],
-        "TYFoundationKit": [
-            "1.10.3"
-        ],
+        "TYFoundationKit": [],
         "TYHelpCenterModule": [
             "0.0.2"
         ],
@@ -71,9 +69,7 @@
         "TYSocketPing": [
             "1.0.0"
         ],
-        "TYUIKit": [
-            "1.10.2"
-        ],
+        "TYUIKit": [],
         "TYVideoPlayer": [
             "2.0.1"
         ],
