@@ -41,9 +41,7 @@
         ],
         "TYDomainQueryModule": [],
         "TYEncryptImage": [],
-        "TYFoundationKit": [
-            "1.12.0"
-        ],
+        "TYFoundationKit": [],
         "TYHomeDataManager": [
             "1.5.1"
         ],
@@ -140,9 +138,7 @@
         "TYTemplateSkeleton": [
             "0.2.4"
         ],
-        "TYUIKit": [
-            "1.12.0"
-        ],
+        "TYUIKit": [],
         "TYUrlPredefined": [
             "0.2.89"
         ],
