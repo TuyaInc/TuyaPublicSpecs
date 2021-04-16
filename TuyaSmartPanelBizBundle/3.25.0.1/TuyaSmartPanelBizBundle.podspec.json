@@ -234,6 +234,9 @@
         "TYTarKit": [
             "0.1.5"
         ],
+        "TYTimerModule": [
+            "2.4.3-Xcode12-1"
+        ],
         "TYUIKit": [],
         "TYVideoCipper": [
             "1.0.1-tybizbundle.3.22.0-1"
